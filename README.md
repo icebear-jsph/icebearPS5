@@ -1,4 +1,4 @@
-# PS5 Relapse Exploit
+# PS5 Relapse Exploit ICEBEAR 🐻‍❄️🐻‍❄️🐻‍❄️🐻‍❄️🐻‍❄️
 Supported firmware: 7.00 through 13.60.
 
 ## Usage
